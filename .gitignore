@@ -1,0 +1,5 @@
+node_modules
+dist
+.wrangler
+build.log
+node_modules.zip
